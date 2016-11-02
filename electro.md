@@ -17,8 +17,8 @@ Potentiometer
 LEDs
 ---
 
-Anode Vcc longer pin
-Cathode GND, flat side
+- Anode Vcc longer pin
+- Cathode GND, flat side
 
 Color | If | Vf | Resistor | Notes
 ------|----|----|----------|------
