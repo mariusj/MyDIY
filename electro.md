@@ -17,7 +17,7 @@ Potentiometer
 LEDs
 ---
 
-- Anode Vcc longer pin
+- Anode Vcc, longer pin
 - Cathode GND, flat side
 
 Color | If | Vf | Resistor | Notes
@@ -51,3 +51,10 @@ RGB 5mm Cathode | | | | 1 - blue, 2 - green, 3 - GND, 4 - red
 	}
 
 
+Arduino Pro Mini
+---
+
+- DC Current per I/O Pin - 40 mA
+- External Interrupts: 2 and 3
+- PWM: 3, 5, 6, 9, 10, and 11
+- LED: 13
